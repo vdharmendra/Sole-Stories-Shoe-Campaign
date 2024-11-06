@@ -28,11 +28,11 @@
 <br>
 <span>Desktop Desgin</span><br/>
 <a href="https://www.behance.net/gallery/211859987/Sole-Stories-Shoe-Campaign-Landing-Page" target="_blank" >
-<img src="./img/shoe-landing-page-desktop-ss.gif" alt="Pharma-Tech-landing-page" width="475px" />
+<img src="./img/shoe-landing-page-desktop-ss.gif" alt="Pharma-Tech-landing-page" width="575px" />
 </a>
-<span>Mobile Desgin</span>
+<span>Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/211859987/Sole-Stories-Shoe-Campaign-Landing-Page" target="_blank" >
-<img src="./img/shoe-landing-page.gif" alt="Pharma-Tech-landing-page" width="245px" />
+<img src="./img/shoe-landing-page.gif" alt="Pharma-Tech-landing-page" width="575px" />
 </a>
 
 
