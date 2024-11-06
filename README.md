@@ -32,7 +32,7 @@
 </a>
 <span>Mobile Desgin</span><br/>
 <a href="https://www.behance.net/gallery/211859987/Sole-Stories-Shoe-Campaign-Landing-Page" target="_blank" >
-<img src="./img/shoe-landing-page.gif" alt="Pharma-Tech-landing-page" width="345px" />
+<img src="./img/shoe-landing-page.gif" alt="Pharma-Tech-landing-page" width="275px" />
 </a>
 
 
